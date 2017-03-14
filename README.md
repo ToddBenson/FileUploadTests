@@ -1,6 +1,6 @@
 # FileUploadTests
 
-This repo contains various test files for file uploads. THe files used are created with proper applications. All files have the name of 'Test" follwed by their extension. Files with an extension type in the file name have had their extensions changed. Files with multiple extensions have the original extension as the first extension.
+This repo contains various test files for file upload testing. The files used are created with proper applications. All files have the name of 'Test" follwed by their extension. Files with an extension type in the file name have had their extensions changed. Files with multiple extensions have the original extension as the first extension.
 
 
 - [ ] Check extension
@@ -42,14 +42,14 @@ Test.GIF | Test.pdf | Test.TIF | Test.zip
 
    *This file is 30+MB*
 
->Test Large File.pdf
+>TestLargeFile.pdf
 
 
 
 
 - [ ] Check virus protection
 
->Eicar.com.txt
+>TestEicar.com.txt
 
 
 
