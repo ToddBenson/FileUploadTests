@@ -4,17 +4,11 @@
 *An exe file should be added*
 
 filename |filename|filename|filename
-
 ---------|-----------|----------|------------
-
 Test.cvs | Test.html | Test.png | Test.txt.gz
-
 Test.doc | Test.jar | Test.ppt | Test.xls
-
 Test.docm | Test.jpeg | Test.pptm | Test.xlsm
-
 Test.docx | Test.jpg | Test.pptx | Test.xlsx
-
 Test.GIF | Test.pdf | Test.TIF | Test.zip
 
 
