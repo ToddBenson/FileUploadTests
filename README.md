@@ -5,8 +5,6 @@ This repo contains various test files for file upload testing. The files used ar
 **ToDo**
 
 - Add an exe file
-- Add a file between 10 and 20 MB
-- Add some files between 5 and 10 MB
 
 
 - [ ] Check extension
@@ -46,9 +44,10 @@ Test.GIF | Test.pdf | Test.TIF | Test.zip
 
 - [ ] Check file size
 
-   *This file is 30+MB*
 
->TestLargeFile.pdf
+>TestLargeFile30MB.pdf
+>TestLargeFile6MB.txt
+>TestLargeFile12MB.txt
 
 
 
