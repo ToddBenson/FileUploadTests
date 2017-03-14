@@ -76,7 +76,7 @@ Test.GIF | Test.pdf | Test.TIF | Test.zip
 
 - [ ] Check filename length
 
-   *Add various filename lengths, but to 200 characters*
+   *Add various filename lengths, up to 257 characters*
 
 
 - [ ] Check access controls
