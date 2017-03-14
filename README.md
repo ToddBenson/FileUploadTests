@@ -9,7 +9,6 @@ This repo contains various test files for file upload testing. The files used ar
 
 - [ ] Check extension
 
-   *An exe file should be added*
 
 name|name|name|name
 ---------|-----------|----------|------------
