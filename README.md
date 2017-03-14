@@ -2,6 +2,14 @@
 
 This repo contains various test files for file upload testing. The files used are created with proper applications. All files have the name of 'Test" follwed by their extension. Files with an extension type in the file name have had their extensions changed. Files with multiple extensions have the original extension as the first extension.
 
+**ToDo**
+
+- Add an exe file
+- Add a file between 10 and 20 MB
+- Add a file with filename spaces
+- Add some files between 5 and 10 MB
+- Add a zip file with eicars
+
 
 - [ ] Check extension
 
