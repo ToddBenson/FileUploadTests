@@ -6,9 +6,7 @@ This repo contains various test files for file upload testing. The files used ar
 
 - Add an exe file
 - Add a file between 10 and 20 MB
-- Add a file with filename spaces
 - Add some files between 5 and 10 MB
-- Add a zip file with eicars
 
 
 - [ ] Check extension
@@ -50,22 +48,29 @@ Test.GIF | Test.pdf | Test.TIF | Test.zip
 
    *This file is 30+MB*
 
->Test Large File.pdf
+>TestLargeFile.pdf
+
 
 
 
 
 - [ ] Check virus protection
 
->Eicar.com.txt
+>TestEicar.com.txt
+>Test.Eicar.txt
 
 
 
 
 - [ ] Check zipped files to see if files in it are scanned
 
-   *If your application accepts compressed files, create a archive with the eicars file*
+> TestEicars.zip
 
+
+
+- [ ] Check a filename with spaces
+   
+>Test a filename with spaces.GIF
 
 
 - [ ] Check filename length
@@ -94,7 +99,7 @@ Test.GIF | Test.pdf | Test.TIF | Test.zip
 
 - [ ] Check path traversal
    
-   *Attempt to travers the file path filename="../../../../<filename>" and see what may happen*
+   *Attempt to add a path (i.e ../../../../) to the filename and see what may happen*
 
 - [ ] Check logging
    
@@ -102,7 +107,6 @@ Test.GIF | Test.pdf | Test.TIF | Test.zip
 
 
 - [ ] Check for cross-site request forgery
-
 
 
 - [ ] Check if authentication is needed to upload
