@@ -62,17 +62,17 @@ Test.GIF | Test.pdf | Test.TIF | Test.zip
 
 - [ ] Check filename length
 
-   *Add various filename lengths, but to 200 characters
+   *Add various filename lengths, but to 200 characters*
 
 
 - [ ] Check access controls
 
-   *Can one user access a file uploaded by another user
+   *Can one user access a file uploaded by another user*
 
 
 - [ ] Try overwriting files
    
-   *Upload a file. Then attempt to overwrite is on the file system
+   *Upload a file. Then attempt to overwrite is on the file system*
 
 
 - [ ] Try POST, GET and PUT
@@ -81,16 +81,16 @@ Test.GIF | Test.pdf | Test.TIF | Test.zip
 
 - [ ] Check x-content-type-options header
    
-   *Does the header include 'x-content-type-options'
+   *Does the header include 'x-content-type-options'*
 
 
 - [ ] Check path traversal
    
-   *Attempt to travers the file path filename="../../../../" and see what may happen
+   *Attempt to travers the file path filename="../../../../<filename>" and see what may happen*
 
 - [ ] Check logging
    
-   *Is the file upload (successes, failures, and accesses) being logged
+   *Is the file upload (successes, failures, and accesses) being logged*
 
 
 - [ ] Check for cross-site request forgery
@@ -99,6 +99,6 @@ Test.GIF | Test.pdf | Test.TIF | Test.zip
 
 - [ ] Check if authentication is needed to upload
   
-  *Does the service used require authentication? Is it the same authentication required of the application?
+  *Does the service used require authentication? Is it the same authentication required of the application?*
 
 
