@@ -18,9 +18,9 @@ Test.GIF | Test.pdf | Test.TIF | Test.zip
 
 *Files have had their extension changed*
 
-Test Jar.pdf
+>Test Jar.pdf
 
-Test Text.jpg
+>Test Text.jpg
 
 
 
