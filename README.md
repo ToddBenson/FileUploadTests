@@ -42,14 +42,14 @@ Test.GIF | Test.pdf | Test.TIF | Test.zip
 
    *This file is 30+MB*
 
->TestLargeFile.pdf
+>Test Large File.pdf
 
 
 
 
 - [ ] Check virus protection
 
->TestEicar.com.txt
+>Eicar.com.txt
 
 
 
