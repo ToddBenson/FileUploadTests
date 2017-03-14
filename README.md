@@ -74,9 +74,11 @@ Test.GIF | Test.pdf | Test.TIF | Test.zip
 >Test a filename with spaces.GIF
 
 
+
 - [ ] Check filename length
 
    *Add various filename lengths, up to 257 characters*
+
 
 
 - [ ] Check access controls
@@ -84,9 +86,11 @@ Test.GIF | Test.pdf | Test.TIF | Test.zip
    *Can one user access a file uploaded by another user*
 
 
+
 - [ ] Try overwriting files
    
    *Upload a file. Then attempt to overwrite is on the file system*
+
 
 
 - [ ] Try POST, GET and PUT
@@ -98,16 +102,21 @@ Test.GIF | Test.pdf | Test.TIF | Test.zip
    *Does the header include 'x-content-type-options'*
 
 
+
 - [ ] Check path traversal
    
    *Attempt to add a path (i.e ../../../../) to the filename and see what may happen*
+
+
 
 - [ ] Check logging
    
    *Is the file upload (successes, failures, and accesses) being logged*
 
 
+
 - [ ] Check for cross-site request forgery
+
 
 
 - [ ] Check if authentication is needed to upload
