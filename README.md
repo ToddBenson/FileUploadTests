@@ -15,7 +15,7 @@ Test.GIF | Test.pdf | Test.TIF | Test.zip
 
 
 
-* Check content type
+- [ ] Check content type
 
    *Files have had their extension changed*
 
@@ -26,7 +26,7 @@ Test.GIF | Test.pdf | Test.TIF | Test.zip
 
 
 
-* Check for adding an extension
+- [ ] Check for adding an extension
 
    *File has the original extension and added a second extension*
 
@@ -35,7 +35,7 @@ Test.GIF | Test.pdf | Test.TIF | Test.zip
 
 
 
-* Check file size
+- [ ] Check file size
 
    *This file is 30+MB*
 
@@ -44,51 +44,51 @@ Test.GIF | Test.pdf | Test.TIF | Test.zip
 
 
 
-* Check virus protection
+- [ ] Check virus protection
 
 >Eicar.com.txt
 
 
 
 
-* Check zipped files to see if files in it are scanned
+- [ ] Check zipped files to see if files in it are scanned
 
    *If your application accepts compressed files, create a archive with the eicars file*
 
 
 
-* Check filename length
+- [ ] Check filename length
 
 
 
-* Check access controls
+- [ ] Check access controls
 
 
 
-* Try overwriting files
+- [ ] Try overwriting files
 
 
 
-* Try POST, GET and PUT
+- [ ] Try POST, GET and PUT
 
 
 
-* Check x-content-type-options header
+- [ ] Check x-content-type-options header
 
 
 
-* Check path traversal
+- [ ] Check path traversal
 
 
 
-* Check logging
+- [ ] Check logging
 
 
 
-* Check CSRF
+- [ ] Check CSRF
 
 
 
-* Check if authentication is needed to upload
+- [ ] Check if authentication is needed to upload
 
 
