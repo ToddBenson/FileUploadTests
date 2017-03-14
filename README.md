@@ -1,5 +1,8 @@
 # FileUploadTests
 
+This repo contains various test files for file uploads. THe files used are created with proper applications. All files have the name of 'Test" follwed by their extension. Files with an extension type in the file name have had their extensions changed. Files with multiple extensions have the original extension as the first extension.
+
+
 - [ ] Check extension
 
    *An exe file should be added*
