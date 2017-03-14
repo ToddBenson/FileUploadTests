@@ -3,6 +3,7 @@
 * Check extension
 *An exe file should be added*
 
+---------|-----------|----------|------------
 Test.cvs | Test.html | Test.png | Test.txt.gz
 
 Test.doc | Test.jar | Test.ppt | Test.xls
@@ -12,6 +13,7 @@ Test.docm | Test.jpeg | Test.pptm | Test.xlsm
 Test.docx | Test.jpg | Test.pptx | Test.xlsx
 
 Test.GIF | Test.pdf | Test.TIF | Test.zip
+
 
 
 
@@ -25,11 +27,13 @@ Test Text.jpg
 
 
 
+
 * Check for adding an extension
 
 *File has the original extension and added a second extension*
 
 Test.html.jpg
+
 
 
 
@@ -41,15 +45,18 @@ Test Large File.pdf
 
 
 
+
 * Check virus protection
 
 Eicar.com.txt
 
 
 
+
 * Check zipped files to see if files in it are scanned
 
 *If your application accepts compressed files, create a archive with the eicars file*
+
 
 
 * Check filename length
