@@ -1,6 +1,6 @@
 # FileUploadTests
 
-* Check extension
+- [] Check extension
 
    *An exe file should be added*
 
