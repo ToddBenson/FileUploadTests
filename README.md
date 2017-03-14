@@ -3,6 +3,7 @@
 * Check extension
 *An exe file should be added*
 
+filename|             |         |   
 ---------|-----------|----------|------------
 
 Test.cvs | Test.html | Test.png | Test.txt.gz
