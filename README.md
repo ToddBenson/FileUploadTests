@@ -16,7 +16,7 @@ Test.GIF | Test.pdf | Test.TIF | Test.zip
 
 * Check content type
 
- *Files have had their extension changed*
+   *Files have had their extension changed*
 
 >Test Jar.pdf
 
@@ -27,7 +27,7 @@ Test.GIF | Test.pdf | Test.TIF | Test.zip
 
 * Check for adding an extension
 
- *File has the original extension and added a second extension*
+   *File has the original extension and added a second extension*
 
 >Test.html.jpg
 
@@ -36,7 +36,7 @@ Test.GIF | Test.pdf | Test.TIF | Test.zip
 
 * Check file size
 
- *This file is 30+MB*
+   *This file is 30+MB*
 
 >Test Large File.pdf
 
@@ -52,7 +52,7 @@ Test.GIF | Test.pdf | Test.TIF | Test.zip
 
 * Check zipped files to see if files in it are scanned
 
- *If your application accepts compressed files, create a archive with the eicars file*
+   *If your application accepts compressed files, create a archive with the eicars file*
 
 
 
