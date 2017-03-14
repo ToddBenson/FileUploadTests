@@ -1,7 +1,8 @@
 # FileUploadTests
 
 * Check extension
-*An exe file should be added*
+
+   *An exe file should be added*
 
 name|name|name|name
 ---------|-----------|----------|------------
